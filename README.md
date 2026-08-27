@@ -39,5 +39,5 @@ Uso este espaço para compartilhar os projetos que venho desenvolvendo nessa tra
 
 ### 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/marcos-henrique-garcia-oliveira-a6b398236)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-henrique-garcia-oliveira-a6b398236)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhenriquegarcia29@gmail.com)
