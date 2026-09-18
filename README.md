@@ -1,43 +1,41 @@
-# Olá, eu sou o Marcos 👋
+# Marcos Henrique
 
-Sou **Analista de QA em transição de carreira para Dados/BI**. Ao longo da minha experiência atual venho trabalhando diariamente com SQL, análise de dados e construção de dashboards — e decidi seguir esse caminho de forma mais profunda, migrando para uma posição de Analista de Dados/BI.
+**Analista de Dados** · SQL · Power BI · Python · ETL<br>
+São Paulo, Brasil
 
-Uso este espaço para compartilhar os projetos que venho desenvolvendo nessa transição, aplicando na prática o que estudo em SQL, Python e Power BI.
-
----
-
-### 🔎 Sobre mim
-
-- 🧪 Atuo como **Analista de QA**, com rotina de validação de dados, consultas SQL em Oracle e criação de dashboards de acompanhamento.
-- 📊 Em transição para **Análise de Dados/BI**, unindo o rigor analítico do QA com ferramentas de visualização e análise de dados.
-- 🌱 Estudando atualmente: Power BI (DAX e modelagem), SQL avançado e Python para dados.
-- 🎯 Objetivo: atuar como Analista de Dados/BI, transformando dados em decisões de negócio.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcoshgarciaoliveira/)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mhenriquegarcia29@gmail.com)
 
 ---
 
-### 🛠️ Stack
+### Sobre
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+Trabalho com dados há 3 anos dentro de TI. Hoje, na Spread Tecnologia, minha rotina é escrever consultas SQL em Oracle para validar bases, investigar inconsistências em regras de negócio e transformar esse resultado em indicadores e dashboards que a área cliente acompanha em tempo real.
 
-**Ferramentas e bibliotecas:** Oracle, SQL Server, PostgreSQL, Pandas, NumPy, Matplotlib, Power Query, DAX
+Antes disso, no Grupo GPS, construí dashboards operacionais em Grafana e Zabbix a partir de dados de rede, servidores e segurança — foi ali que aprendi, na prática, a diferença entre um gráfico bonito e um indicador que antecipa um problema.
 
----
+Uso este espaço para publicar os projetos em que aplico SQL, Python e Power BI a problemas reais de negócio.
 
-### 📂 Projetos em destaque
+### Stack
 
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [nome-do-repo](https://github.com/mhenrique29/nome-do-repo) | Breve descrição do problema de negócio e do resultado obtido | SQL · Power BI |
-| [nome-do-repo](https://github.com/mhenrique29/nome-do-repo) | Breve descrição do problema de negócio e do resultado obtido | Python · Pandas |
+**Análise e BI** — Power BI (DAX, Power Query, modelagem de dados), Excel Avançado<br>
+**Banco de dados** — Oracle, SQL Server, PostgreSQL<br>
+**Python** — Pandas, NumPy, Matplotlib<br>
+**Dados e qualidade** — ETL, validação de dados, testes de API com Postman<br>
+**Monitoramento** — Grafana, Zabbix
 
-*(Atualize esta tabela conforme for publicando novos projetos — é a primeira coisa que um recrutador vê.)*
+### Projetos
 
----
+Estou publicando aqui, um a um, os dashboards e análises que desenvolvi. Cada repositório traz o problema de negócio, a origem dos dados, o tratamento aplicado e o insight obtido.
 
-### 📫 Contato
+### Formação e certificações
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-henrique-garcia-oliveira-a6b398236)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhenriquegarcia29@gmail.com)
+Análise e Desenvolvimento de Sistemas — FIAP (2023–2024)<br>
+Power BI Desktop — Alura (2025)<br>
+Big Data — FIAP (2025)
+
+Os repositórios em Java, C#, Kotlin e TypeScript deste perfil são trabalhos acadêmicos da FIAP, mantidos como registro da formação.
+
+### Contato
+
+[LinkedIn](https://www.linkedin.com/in/marcoshgarciaoliveira/) · mhenriquegarcia29@gmail.com
