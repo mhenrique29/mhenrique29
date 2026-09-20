@@ -26,7 +26,13 @@ Uso este espaço para publicar os projetos em que aplico SQL, Python e Power BI 
 
 ### Projetos
 
-Estou publicando aqui, um a um, os dashboards e análises que desenvolvi. Cada repositório traz o problema de negócio, a origem dos dados, o tratamento aplicado e o insight obtido.
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [Relatório de Vendas](https://github.com/mhenrique29/powerbi-controle-vendas) | Faturado x cancelado por vendedor, crescimento ano a ano e meta em velocimetros | Power BI, DAX, dimensão de data |
+| [Dashboard de RH](https://github.com/mhenrique29/powerbi-dashboard-rh) | Custo de folha, absenteísmo, headcount e perfil demográfico por filial | Power BI, DAX |
+| [Locação de Veículos](https://github.com/mhenrique29/powerbi-locacao-veiculos) | Faturamento, ticket médio, base de clientes e previsão de vendas | Power BI, Power Query, DAX |
+
+Todos usam dados fictícios. Cada repositório documenta o problema de negócio, o modelo de dados, as medidas DAX e as decisões de construção.
 
 ### Formação e certificações
 
